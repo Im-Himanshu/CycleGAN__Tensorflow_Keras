@@ -1,0 +1,5 @@
+nohup: ignoring input
+  File "cyclegan.py", line 31
+    self.dataset_B = 'organic
+                            ^
+SyntaxError: EOL while scanning string literal
